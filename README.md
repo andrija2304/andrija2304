@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrija2304
-- 👀 I’m interested in c# programming
-- 🌱 I’m currently learning OOP
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning OOP (Iћ'm using c# also)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrijagrbusic4@gmail.com
 
